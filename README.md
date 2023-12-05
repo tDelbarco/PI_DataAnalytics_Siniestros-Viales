@@ -37,10 +37,8 @@ link dataset PDE https://www.estadisticaciudad.gob.ar/eyc/?p=76599
 
 reducir(semestre)
 
+![Alt text](src/kpi_1.png)
 
-
-reducir accidentes de moto en el ultimo año(año)
-
-
+![Alt text](src/kpi_2.png)
 
 ## c
