@@ -1,4 +1,4 @@
-# Siniestros Viales en la Ciudad de Buenos Aires
+# **`Siniestros Viales en la Ciudad de Buenos Aires`**
 
 ![Imagen](https://camo.githubusercontent.com/c89e484e93d62f006114729075599dc6d77933f4eb199f15e0189a5180f4a973/68747470733a2f2f7374617469632e6c616a6f726e61646165737461646f64656d657869636f2e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032322f30382f53696e69657374726f732d7669616c65732e6a7067)
 
@@ -44,3 +44,9 @@ El dashboard presenta dos KPIs:
    - Resultado: El objetivo no se cumplió, ya que se registró un aumento en los homicidios en siniestros viales donde las víctimas iban en moto.
      
    ![KPI 2](src/kpi_2.png)
+
+## contacto
+
+<span><a href="https://github.com/tDelbarco">mi perfil de github</a></span>
+<br>
+<span><a href="https://www.linkedin.com/in/tomás-del-barco-b74337229/">mi perfil de linkedin</a></span>
