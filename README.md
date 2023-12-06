@@ -23,9 +23,12 @@ El objetivo principal de este proyecto fue proporcionar información clave a las
 
 ### informacion complementaria
 -[Victimas de homicidios dolosos](https://www.indec.gob.ar/indec/web/Nivel4-Tema-4-34-108)
+
 -[Victimas de lesiones dolosas](https://www.indec.gob.ar/indec/web/Nivel4-Tema-4-34-108)
+
 -[Investigaciones de seguridad vial Buenos Aires](https://buenosaires.gob.ar/jefaturadegabinete/movilidad/investigaciones-de-seguridad-vial)
--[Estudios Observatorio vial nacional][https://www.argentina.gob.ar/seguridadvial/observatoriovialnacional/estudios]
+
+-[Estudios Observatorio vial nacional](https://www.argentina.gob.ar/seguridadvial/observatoriovialnacional/estudios)
 
 
 ## El Proceso
