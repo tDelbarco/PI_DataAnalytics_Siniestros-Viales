@@ -21,6 +21,13 @@ El objetivo principal de este proyecto fue proporcionar información clave a las
 - [Dataset Homicidios](https://data.buenosaires.gob.ar/dataset/victimas-siniestros-viales)
 - [Dataset PDE (Población Total Estimada)](https://www.estadisticaciudad.gob.ar/eyc/?p=76599)
 
+### informacion complementaria
+-[Victimas de homicidios dolosos](https://www.indec.gob.ar/indec/web/Nivel4-Tema-4-34-108)
+-[Victimas de lesiones dolosas](https://www.indec.gob.ar/indec/web/Nivel4-Tema-4-34-108)
+-[Investigaciones de seguridad vial Buenos Aires](https://buenosaires.gob.ar/jefaturadegabinete/movilidad/investigaciones-de-seguridad-vial)
+-[Estudios Observatorio vial nacional][https://www.argentina.gob.ar/seguridadvial/observatoriovialnacional/estudios]
+
+
 ## El Proceso
 
 Hemos realizado un análisis de datos utilizando los conjuntos de datos de homicidios y lesiones, que contienen información detallada sobre siniestros viales en la Ciudad de Buenos Aires. El conjunto de datos de homicidios abarca el periodo de 2016 a 2021, mientras que el de lesiones abarca de 2019 a 2021. Ambos archivos contienen dos hojas llamadas "hechos" y "víctimas", complementadas con dos hojas adicionales que sirven como diccionarios de datos para facilitar la comprensión de la información compartida.
